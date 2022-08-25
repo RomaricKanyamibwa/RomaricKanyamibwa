@@ -9,13 +9,11 @@
 
 - 📫 How to reach me **romaric.kanyamibwa@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/romaric-kanyamibwa-36a432111](https://www.linkedin.com/in/romaric-kanyamibwa-36a432111)
-
 - ⚡ Fun fact **I read exclusively sci-fi and fantasy to the detriment of all else.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/romaric kanyamibwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romaric kanyamibwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/romaric-kanyamibwa-36a432111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romaric kanyamibwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
